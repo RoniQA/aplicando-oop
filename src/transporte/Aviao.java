@@ -1,4 +1,4 @@
-package Transporte;
+package transporte;
 
 public class Aviao extends Transporte{
     private String codigo;

@@ -1,4 +1,4 @@
-package Transporte;
+package transporte;
 
 public class Automovel extends Transporte {
     private String placa;
